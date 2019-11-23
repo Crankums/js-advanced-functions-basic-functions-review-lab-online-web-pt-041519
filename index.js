@@ -29,6 +29,8 @@ const Calculator ={
 }
 
 function actionApplyer(startInt, arrFn) {
-  if arrFn.length
+  if (arrFn.length === 0) {
+    return startInt
+  }
 
 }
