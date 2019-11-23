@@ -12,3 +12,5 @@ function wrapAdjective(arg1= "*") {
     return `You are ${arg1}${arg2}${arg1}!`
   }
 }
+
+const calculator = {}
