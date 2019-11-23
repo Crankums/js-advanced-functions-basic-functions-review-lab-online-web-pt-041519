@@ -34,5 +34,4 @@ function actionApplyer(startInt, arrFn) {
   } else {
     return (startInt*2+1000) % 7
   }
-
 }
