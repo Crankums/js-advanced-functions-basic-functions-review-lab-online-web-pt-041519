@@ -13,4 +13,4 @@ function wrapAdjective(arg1= "*") {
   }
 }
 
-const calculator = {}
+function calculator() {}
