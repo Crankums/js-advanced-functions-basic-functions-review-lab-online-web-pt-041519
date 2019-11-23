@@ -9,6 +9,6 @@ function mondayWork(activity = "go to the office") {
 
 function wrapAdjective(arg1= "*") {
   return function (arg2 = "special") {
-    return `You are ${arg1} ${special} ${arg1}!`
+    return `You are ${arg1} ${arg2} ${arg1}!`
   }
 }
