@@ -14,5 +14,5 @@ function wrapAdjective(arg1= "*") {
 }
 
 const Calculator ={
-
+  add: function(return n1+n2)
 }
