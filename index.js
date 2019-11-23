@@ -27,3 +27,7 @@ const Calculator ={
     return n1/n2
   }
 }
+
+function actionApplyer() {
+  
+}
